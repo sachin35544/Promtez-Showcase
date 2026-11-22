@@ -26,13 +26,11 @@
 
 Add real app captures to a `screenshots/` folder using the filenames below. The image slots are ready to enable once the screenshots are added.
 
-<!-- Uncomment these when the matching screenshot files are added.
 <p align="center">
   <img src="./screenshots/image (2).png" alt="Promtez home feed" width="260" />
   <img src="./screenshots/image (1).png" alt="Promtez prompt detail" width="260" />
   <img src="./screenshots/image.png" alt="Promtez create post" width="260" />
 </p>
--->
 
 | Home Feed | Prompt Detail | Create Post |
 | --- | --- | --- |
