@@ -58,7 +58,7 @@ This is a **project showcase repository**. The application source code is not in
 ## 👤 Author & Contact
 
 **Sachin Kumawat**  
-Email: `your.email@example.com` · GitHub: `https://github.com/your-username`
+Email: `sachinkumawat.n@gmail.com` · GitHub: `https://github.com/sachin35544`
 
 ---
 
