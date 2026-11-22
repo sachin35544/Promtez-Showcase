@@ -28,9 +28,9 @@ Add real app captures to a `screenshots/` folder using the filenames below. The 
 
 <!-- Uncomment these when the matching screenshot files are added.
 <p align="center">
-  <img src="./screenshots/home-feed.png" alt="Promtez home feed" width="260" />
-  <img src="./screenshots/prompt-detail.png" alt="Promtez prompt detail" width="260" />
-  <img src="./screenshots/create-post.png" alt="Promtez create post" width="260" />
+  <img src="./screenshots/image (2).png" alt="Promtez home feed" width="260" />
+  <img src="./screenshots/image (1).png" alt="Promtez prompt detail" width="260" />
+  <img src="./screenshots/image.png" alt="Promtez create post" width="260" />
 </p>
 -->
 
