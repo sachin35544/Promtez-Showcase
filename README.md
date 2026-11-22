@@ -32,9 +32,9 @@ Add real app captures to a `screenshots/` folder using the filenames below. The 
   <img src="./screenshots/image.png" alt="Promtez create post" width="260" />
 </p>
 
-| Home Feed | Prompt Detail | Create Post |
+| Home Feed | Create Post | Profile | 
 | --- | --- | --- |
-| `screenshots/home-feed.png` | `screenshots/prompt-detail.png` | `screenshots/create-post.png` |
+| `screenshots/home-feed.png` | `screenshots/create-post.png` | `screenshots/Profile-Page.png` |
 
 ## ⚙️ Tech Stack
 
